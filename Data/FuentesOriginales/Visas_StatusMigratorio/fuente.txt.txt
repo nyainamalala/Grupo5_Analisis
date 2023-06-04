@@ -1,8 +1,0 @@
-Global Visa Cost Dataset
- Recchi, Ettore;  Deutschmann, Emanuel; Gabrielli, Lorenzo;  Kholmatova, Nodira
-
-The Global Visa Cost Dataset reports the cost of country-to-country visas for tourism, student, business, work, transit, family reunification and other motives worldwide. Data come from governmental websites and refer to costs in 2019 (in US dollars).
-
-https://zenodo.org/record/4572529#.ZG3YCXZBy3A
-
-Part of the Global Mobilities Project at the EUI's Migration Policy Centre
